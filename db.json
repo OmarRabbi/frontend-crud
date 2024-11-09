@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Ahsan",
+      "lastName": "",
+      "email": "ahsan@example.com",
+      "phone": "+1234567890",
+      "blocked": false
+    },
+    {
+      "id": "2",
+      "firstName": "Aasim",
+      "lastName": "",
+      "email": "aasim@example.com",
+      "phone": "+1234567891",
+      "blocked": false
+    },
+    {
+      "id": "3",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+1234567892"
+    },
+    {
+      "id": "4",
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "email": "bob.brown@example.com",
+      "phone": "+1234567893"
+    },
+    {
+      "id": "5",
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "email": "charlie.davis@example.com",
+      "phone": "+1234567894"
+    },
+    {
+      "id": "6",
+      "firstName": "David",
+      "lastName": "Miller",
+      "email": "david.miller@example.com",
+      "phone": "+1234567895",
+      "blocked": false
+    },
+    {
+      "id": "7",
+      "firstName": "Eva",
+      "lastName": "Wilson",
+      "email": "eva.wilson@example.com",
+      "phone": "+1234567896"
+    },
+    {
+      "id": "8",
+      "firstName": "Frank",
+      "lastName": "Moore",
+      "email": "frank.moore@example.com",
+      "phone": "+1234567897"
+    },
+    {
+      "id": "9",
+      "firstName": "Grace",
+      "lastName": "Taylor",
+      "email": "grace.taylor@example.com",
+      "phone": "+1234567898"
+    },
+    {
+      "id": "10",
+      "firstName": "Henry",
+      "lastName": "Anderson",
+      "email": "henry.anderson@example.com",
+      "phone": "+1234567899"
+    },
+    {
+      "id": "29ff",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@gmail.com",
+      "phone": "+12345678901",
+      "blocked": false
+    },
+    {
+      "id": "32fe",
+      "firstName": "rakib",
+      "lastName": "shahriar",
+      "email": "rakib@gmail.com",
+      "phone": "+12345678912"
+    }
+  ]
+}
